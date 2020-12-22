@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BoolListRazor", "BoolListRazor\BoolListRazor.csproj", "{4C648883-EDD9-407A-B021-D376F92D8E67}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C648883-EDD9-407A-B021-D376F92D8E67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C648883-EDD9-407A-B021-D376F92D8E67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C648883-EDD9-407A-B021-D376F92D8E67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C648883-EDD9-407A-B021-D376F92D8E67}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98108CC3-084A-4BEA-8174-85F6B7ABA7EB}
+	EndGlobalSection
+EndGlobal
